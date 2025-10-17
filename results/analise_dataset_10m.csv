@@ -1,0 +1,28 @@
+Dataset,Tamanho_Dataset,Tamanho_Tabela,Funcao_Hash,Tecnica,Colisoes_Totais,Colisoes_Medias,Tempo_Insercao_ms,Tempo_Busca_ms,Lista1,Lista2,Lista3,Gap_Min,Gap_Max,Gap_Medio
+dataset_10m,10000000,1000,Division (Resto da Divisao),Encadeamento (Chaining),49669011914,4966,9012,3626250,744,10258,10238,10223,0,0,0,00
+dataset_10m,10000000,1000,Division (Resto da Divisao),Rehashing Linear,9999005384,999,9005,87758,1,0,0,0,0,0,0,00
+dataset_10m,10000000,1000,Division (Resto da Divisao),Rehashing Quadratico,9998992449,999,8992,112045,1,0,0,0,0,0,0,00
+dataset_10m,10000000,1000,Multiplication (Multiplicacao),Encadeamento (Chaining),49668946279,4966,8946,3621485,730,10233,10232,10218,0,0,0,00
+dataset_10m,10000000,1000,Multiplication (Multiplicacao),Rehashing Linear,9999000398,999,9000,78229,0,0,0,0,0,0,0,00
+dataset_10m,10000000,1000,Multiplication (Multiplicacao),Rehashing Quadratico,9998991878,999,8992,113837,1,0,0,0,0,0,0,00
+dataset_10m,10000000,1000,Mid-Square (Meio do Quadrado),Encadeamento (Chaining),49671127683,4967,1128,2668874,388,10429,10423,10403,0,0,0,00
+dataset_10m,10000000,1000,Mid-Square (Meio do Quadrado),Rehashing Linear,9999004696,999,9005,79539,2,0,0,0,0,0,0,00
+dataset_10m,10000000,1000,Mid-Square (Meio do Quadrado),Rehashing Quadratico,9998993295,999,8993,111005,1,0,0,0,0,0,0,00
+dataset_10m,10000000,10000,Division (Resto da Divisao),Encadeamento (Chaining),4967028268,496,7028,297561,42,1112,1110,1107,0,0,0,00
+dataset_10m,10000000,10000,Division (Resto da Divisao),Rehashing Linear,99899722595,9989,9723,848668,0,0,0,0,0,0,0,00
+dataset_10m,10000000,10000,Division (Resto da Divisao),Rehashing Quadratico,99899079391,9989,9079,1357003,0,0,0,0,0,0,0,00
+dataset_10m,10000000,10000,Multiplication (Multiplicacao),Encadeamento (Chaining),4966863336,496,6863,394270,80,1122,1108,1106,0,0,0,00
+dataset_10m,10000000,10000,Multiplication (Multiplicacao),Rehashing Linear,99899671208,9989,9671,849148,0,0,0,0,0,0,0,00
+dataset_10m,10000000,10000,Multiplication (Multiplicacao),Rehashing Quadratico,99899080210,9989,9080,1359353,1,0,0,0,0,0,0,00
+dataset_10m,10000000,10000,Mid-Square (Meio do Quadrado),Encadeamento (Chaining),4967303992,496,7304,271974,34,1153,1135,1129,0,0,0,00
+dataset_10m,10000000,10000,Mid-Square (Meio do Quadrado),Rehashing Linear,99899560563,9989,9561,851684,0,0,0,0,0,0,0,00
+dataset_10m,10000000,10000,Mid-Square (Meio do Quadrado),Rehashing Quadratico,99899075463,9989,9075,1369489,0,0,0,0,0,0,0,00
+dataset_10m,10000000,100000,Division (Resto da Divisao),Encadeamento (Chaining),496700872,49,6701,42106,8,144,143,143,0,0,0,00
+dataset_10m,10000000,100000,Division (Resto da Divisao),Rehashing Linear,989926795086,98992,6795,10146200,0,0,0,0,0,0,0,00
+dataset_10m,10000000,100000,Division (Resto da Divisao),Rehashing Quadratico,989907664632,98990,7665,20952526,0,0,0,0,0,0,0,00
+dataset_10m,10000000,100000,Multiplication (Multiplicacao),Encadeamento (Chaining),496690481,49,6690,42749,9,146,145,145,0,0,0,00
+dataset_10m,10000000,100000,Multiplication (Multiplicacao),Rehashing Linear,989926947466,98992,6947,9990325,0,0,0,0,0,0,0,00
+dataset_10m,10000000,100000,Multiplication (Multiplicacao),Rehashing Quadratico,989907497816,98990,7498,20889652,0,0,0,0,0,0,0,00
+dataset_10m,10000000,100000,Mid-Square (Meio do Quadrado),Encadeamento (Chaining),496791238,49,6791,32281,4,152,146,143,0,0,0,00
+dataset_10m,10000000,100000,Mid-Square (Meio do Quadrado),Rehashing Linear,989926422378,98992,6422,10103532,1,0,0,0,0,0,0,00
+dataset_10m,10000000,100000,Mid-Square (Meio do Quadrado),Rehashing Quadratico,989907606591,98990,7607,20731994,0,0,0,0,0,0,0,00
